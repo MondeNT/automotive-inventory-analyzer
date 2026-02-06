@@ -1,0 +1,241 @@
+sku,part_name,category,branch,unit_cost_zar,avg_monthly_sales,total_sold_12m,current_stock,lead_time_days,safety_stock_days,demand_class,daily_sales_rate,safety_stock_units,lead_time_demand,reorder_point,days_of_stock,needs_reorder,stock_value_zar,shortfall,suggested_order,turnover_ratio,sales_jan,sales_feb,sales_mar,sales_apr,sales_may,sales_jun,sales_jul,sales_aug,sales_sep,sales_oct,sales_nov,sales_dec
+SP-1001,Spark Plug – Iridium,Engine,Johannesburg,89.99,47,590,149,15,7,High Demand,1.5666666666666667,11,24,35,95,False,13408.509999999998,0,47,4.0,45,62,61,42,70,59,55,32,37,34,48,45
+SP-1001,Spark Plug – Iridium,Engine,Cape Town,89.99,26,315,40,16,7,Stable,0.8666666666666667,7,14,21,46,False,3599.6,0,26,7.9,25,23,31,23,36,30,30,21,27,25,25,19
+SP-1001,Spark Plug – Iridium,Engine,Durban,89.99,19,218,5,26,7,Stable,0.6333333333333333,5,17,22,8,True,449.95,17,19,43.6,15,23,25,29,19,19,18,13,12,14,13,18
+SP-1001,Spark Plug – Iridium,Engine,Pretoria,89.99,3,30,13,20,7,Slow-Moving,0.1,1,2,3,130,False,1169.87,0,3,2.3,3,3,3,4,4,3,2,2,1,1,1,3
+SP-1001,Spark Plug – Iridium,Engine,Bloemfontein,89.99,77,921,221,23,7,High Demand,2.566666666666667,18,60,78,86,False,19887.789999999997,0,77,4.2,89,82,94,72,69,93,75,72,73,66,65,71
+SP-1001,Spark Plug – Iridium,Engine,Port Elizabeth,89.99,16,173,68,20,7,Stable,0.5333333333333333,4,11,15,128,False,6119.32,0,16,2.5,11,16,15,18,22,14,11,12,11,14,13,16
+SP-1002,Spark Plug – Copper,Engine,Johannesburg,42.5,3,26,8,12,7,Slow-Moving,0.1,1,2,3,80,False,340.0,0,3,3.2,3,2,2,2,3,3,2,2,1,2,2,2
+SP-1002,Spark Plug – Copper,Engine,Cape Town,42.5,64,790,192,12,7,High Demand,2.1333333333333333,15,26,41,90,False,8160.0,0,64,4.1,69,64,56,59,95,87,71,49,67,59,59,55
+SP-1002,Spark Plug – Copper,Engine,Durban,42.5,11,128,6,8,7,Stable,0.36666666666666664,3,3,6,16,True,255.0,0,11,21.3,13,11,10,11,13,9,13,11,10,8,9,10
+SP-1002,Spark Plug – Copper,Engine,Pretoria,42.5,22,232,57,19,7,Stable,0.7333333333333333,6,14,20,78,False,2422.5,0,22,4.1,16,22,18,26,23,19,16,20,14,22,19,17
+SP-1002,Spark Plug – Copper,Engine,Bloemfontein,42.5,2,18,2,24,7,Slow-Moving,0.06666666666666667,1,2,3,30,True,85.0,1,2,9.0,2,2,2,1,2,2,2,1,1,1,1,1
+SP-1002,Spark Plug – Copper,Engine,Port Elizabeth,42.5,75,880,188,26,7,High Demand,2.5,18,65,83,75,False,7990.0,0,75,4.7,53,98,108,70,90,63,82,58,67,68,72,51
+BP-2001,Brake Pad Set – Front,Brakes,Johannesburg,385.0,29,343,29,18,7,Stable,0.9666666666666667,7,18,25,30,False,11165.0,0,29,11.8,20,32,31,41,40,28,36,22,24,19,30,20
+BP-2001,Brake Pad Set – Front,Brakes,Cape Town,385.0,0,0,4,22,7,Slow-Moving,0.0,0,0,0,9999,False,1540.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+BP-2001,Brake Pad Set – Front,Brakes,Durban,385.0,70,837,76,17,7,High Demand,2.3333333333333335,17,40,57,33,False,29260.0,0,70,11.0,88,65,63,100,65,62,74,77,47,49,67,80
+BP-2001,Brake Pad Set – Front,Brakes,Pretoria,385.0,20,218,9,22,7,Stable,0.6666666666666666,5,15,20,14,True,3465.0,11,20,24.2,15,15,19,18,25,17,20,20,17,13,19,20
+BP-2001,Brake Pad Set – Front,Brakes,Bloemfontein,385.0,26,311,16,24,7,Stable,0.8666666666666667,7,21,28,18,True,6160.0,12,26,19.4,20,35,28,27,30,31,33,20,26,14,22,25
+BP-2001,Brake Pad Set – Front,Brakes,Port Elizabeth,385.0,0,0,3,11,7,Slow-Moving,0.0,0,0,0,9999,False,1155.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+BP-2002,Brake Pad Set – Rear,Brakes,Johannesburg,340.0,66,809,143,24,7,High Demand,2.2,16,53,69,65,False,48620.0,0,66,5.7,70,88,82,75,71,69,72,72,53,44,45,68
+BP-2002,Brake Pad Set – Rear,Brakes,Cape Town,340.0,26,276,59,7,7,Stable,0.8666666666666667,7,7,14,68,False,20060.0,0,26,4.7,19,21,32,24,36,25,20,29,17,18,17,18
+BP-2002,Brake Pad Set – Rear,Brakes,Durban,340.0,5,52,3,11,7,Slow-Moving,0.16666666666666666,2,2,4,18,True,1020.0,1,5,17.3,4,4,6,6,5,4,5,5,5,2,3,3
+BP-2002,Brake Pad Set – Rear,Brakes,Pretoria,340.0,59,683,59,27,7,High Demand,1.9666666666666666,14,54,68,30,True,20060.0,9,59,11.6,61,61,50,65,70,49,70,38,61,35,58,65
+BP-2002,Brake Pad Set – Rear,Brakes,Bloemfontein,340.0,16,188,55,16,7,Stable,0.5333333333333333,4,9,13,103,False,18700.0,0,16,3.4,18,19,21,14,19,17,19,14,12,13,11,11
+BP-2002,Brake Pad Set – Rear,Brakes,Port Elizabeth,340.0,19,216,38,18,7,Stable,0.6333333333333333,5,12,17,60,False,12920.0,0,19,5.7,18,17,20,20,19,19,21,15,19,18,15,15
+BP-2003,Brake Disc – Ventilated,Brakes,Johannesburg,720.0,7,81,28,20,7,Slow-Moving,0.23333333333333334,2,5,7,120,False,20160.0,0,7,2.9,7,9,8,9,7,8,5,7,7,4,6,4
+BP-2003,Brake Disc – Ventilated,Brakes,Cape Town,720.0,98,1230,207,19,7,High Demand,3.2666666666666666,23,63,86,63,False,149040.0,0,98,5.9,73,135,89,149,135,113,114,103,102,66,85,66
+BP-2003,Brake Disc – Ventilated,Brakes,Durban,720.0,13,150,11,17,7,Stable,0.43333333333333335,4,8,12,25,True,7920.0,1,13,13.6,13,14,14,15,17,16,12,12,13,8,8,8
+BP-2003,Brake Disc – Ventilated,Brakes,Pretoria,720.0,5,56,14,16,7,Slow-Moving,0.16666666666666666,2,3,5,84,False,10080.0,0,5,4.0,4,6,6,5,7,6,4,4,3,3,3,5
+BP-2003,Brake Disc – Ventilated,Brakes,Bloemfontein,720.0,98,1296,153,9,7,High Demand,3.2666666666666666,23,30,53,47,False,110160.0,0,98,8.5,111,111,145,137,113,99,126,99,102,60,98,95
+BP-2003,Brake Disc – Ventilated,Brakes,Port Elizabeth,720.0,12,136,21,27,7,Stable,0.4,3,11,14,52,False,15120.0,0,12,6.5,12,14,9,14,16,11,11,10,8,12,11,8
+BP-2004,Brake Fluid DOT 4,Brakes,Johannesburg,95.0,10,112,39,23,7,Stable,0.3333333333333333,3,8,11,117,False,3705.0,0,10,2.9,8,13,8,15,12,11,7,11,5,6,6,10
+BP-2004,Brake Fluid DOT 4,Brakes,Cape Town,95.0,1,6,2,23,7,Slow-Moving,0.03333333333333333,1,1,2,60,True,190.0,0,1,3.0,1,1,0,0,0,1,1,0,1,0,0,1
+BP-2004,Brake Fluid DOT 4,Brakes,Durban,95.0,107,1228,302,9,7,High Demand,3.566666666666667,25,33,58,85,False,28690.0,0,107,4.1,128,85,103,99,125,135,115,116,70,97,72,83
+BP-2004,Brake Fluid DOT 4,Brakes,Pretoria,95.0,24,279,55,23,7,Stable,0.8,6,19,25,69,False,5225.0,0,24,5.1,30,28,20,30,20,32,27,17,14,15,25,21
+BP-2004,Brake Fluid DOT 4,Brakes,Bloemfontein,95.0,2,19,9,9,7,Slow-Moving,0.06666666666666667,1,1,2,135,False,855.0,0,2,2.1,2,1,2,2,2,2,2,2,1,1,1,1
+BP-2004,Brake Fluid DOT 4,Brakes,Port Elizabeth,95.0,49,537,61,15,7,High Demand,1.6333333333333333,12,25,37,37,False,5795.0,0,49,8.8,38,46,50,56,61,58,46,41,33,41,36,31
+EL-3001,Alternator 12V 120A,Electrical,Johannesburg,2450.0,78,954,151,27,7,High Demand,2.6,19,71,90,58,False,369950.0,0,78,6.3,65,89,95,104,99,93,69,82,66,59,69,64
+EL-3001,Alternator 12V 120A,Electrical,Cape Town,2450.0,20,249,70,8,7,Stable,0.6666666666666666,5,6,11,105,False,171500.0,0,20,3.6,22,27,29,24,23,25,17,21,16,12,12,21
+EL-3001,Alternator 12V 120A,Electrical,Durban,2450.0,0,0,2,17,7,Slow-Moving,0.0,0,0,0,9999,False,4900.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EL-3001,Alternator 12V 120A,Electrical,Pretoria,2450.0,116,1373,197,24,7,High Demand,3.8666666666666667,28,93,121,51,False,482650.0,0,116,7.0,150,148,120,154,152,119,125,73,79,94,76,83
+EL-3001,Alternator 12V 120A,Electrical,Bloemfontein,2450.0,28,322,115,12,7,Stable,0.9333333333333333,7,12,19,123,False,281750.0,0,28,2.8,28,37,42,26,31,28,20,29,22,21,18,20
+EL-3001,Alternator 12V 120A,Electrical,Port Elizabeth,2450.0,7,75,26,23,7,Slow-Moving,0.23333333333333334,2,6,8,111,False,63700.0,0,7,2.9,5,6,7,8,8,7,5,5,6,6,6,6
+EL-3002,Battery 60Ah,Electrical,Johannesburg,1350.0,4,46,3,19,7,Slow-Moving,0.13333333333333333,1,3,4,22,True,4050.0,1,4,15.3,3,4,4,5,4,5,4,3,4,3,4,3
+EL-3002,Battery 60Ah,Electrical,Cape Town,1350.0,79,898,47,19,7,High Demand,2.6333333333333333,19,51,70,18,True,63450.0,23,79,19.1,80,66,87,118,99,70,71,57,46,79,63,62
+EL-3002,Battery 60Ah,Electrical,Durban,1350.0,21,279,2,8,7,Stable,0.7,5,6,11,3,True,2700.0,9,21,139.5,18,25,26,32,26,22,24,23,19,21,20,23
+EL-3002,Battery 60Ah,Electrical,Pretoria,1350.0,0,0,3,23,7,Slow-Moving,0.0,0,0,0,9999,False,4050.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EL-3002,Battery 60Ah,Electrical,Bloemfontein,1350.0,117,1483,232,27,7,High Demand,3.9,28,106,134,59,False,313200.0,0,117,6.4,151,125,176,132,161,96,120,124,121,111,69,97
+EL-3002,Battery 60Ah,Electrical,Port Elizabeth,1350.0,10,118,42,17,7,Stable,0.3333333333333333,3,6,9,126,False,56700.0,0,10,2.8,7,12,13,13,14,12,11,6,6,8,10,6
+EL-3003,Starter Motor,Electrical,Johannesburg,1890.0,15,171,44,18,7,Stable,0.5,4,9,13,88,False,83160.0,0,15,3.9,10,15,21,19,14,19,13,16,10,12,11,11
+EL-3003,Starter Motor,Electrical,Cape Town,1890.0,7,79,24,19,7,Slow-Moving,0.23333333333333334,2,5,7,103,False,45360.0,0,7,3.3,5,5,7,9,9,10,6,5,4,5,7,7
+EL-3003,Starter Motor,Electrical,Durban,1890.0,44,490,72,27,7,High Demand,1.4666666666666666,11,40,51,49,False,136080.0,0,44,6.8,54,48,40,48,38,39,31,38,39,31,34,50
+EL-3003,Starter Motor,Electrical,Pretoria,1890.0,25,298,32,13,7,Stable,0.8333333333333334,6,11,17,38,False,60480.0,0,25,9.3,25,23,36,25,26,34,25,25,21,21,18,19
+EL-3003,Starter Motor,Electrical,Bloemfontein,1890.0,1,8,3,16,7,Slow-Moving,0.03333333333333333,1,1,2,90,False,5670.0,0,1,2.7,1,0,1,1,1,1,0,1,0,0,1,1
+EL-3003,Starter Motor,Electrical,Port Elizabeth,1890.0,54,609,217,16,7,High Demand,1.8,13,29,42,121,False,410130.0,0,54,2.8,56,45,69,82,63,57,38,62,34,31,37,35
+EL-3004,Ignition Coil Pack,Electrical,Johannesburg,560.0,15,147,34,15,7,Stable,0.5,4,8,12,68,False,19040.0,0,15,4.3,13,12,13,16,12,18,12,11,11,11,8,10
+EL-3004,Ignition Coil Pack,Electrical,Cape Town,560.0,27,308,39,11,7,Stable,0.9,7,10,17,43,False,21840.0,0,27,7.9,18,29,31,29,30,34,32,20,19,18,22,26
+EL-3004,Ignition Coil Pack,Electrical,Durban,560.0,5,47,9,21,7,Slow-Moving,0.16666666666666666,2,4,6,54,False,5040.0,0,5,5.2,6,4,5,6,4,4,3,5,2,3,2,3
+EL-3004,Ignition Coil Pack,Electrical,Pretoria,560.0,89,1097,201,16,7,High Demand,2.966666666666667,21,48,69,68,False,112560.0,0,89,5.5,75,101,110,129,73,118,95,63,85,86,62,100
+EL-3004,Ignition Coil Pack,Electrical,Bloemfontein,560.0,29,336,73,15,7,Stable,0.9666666666666667,7,15,22,76,False,40880.0,0,29,4.6,37,29,40,31,40,33,24,24,21,17,17,23
+EL-3004,Ignition Coil Pack,Electrical,Port Elizabeth,560.0,0,0,2,27,7,Slow-Moving,0.0,0,0,0,9999,False,1120.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+SU-4001,Shock Absorber – Front,Suspension,Johannesburg,890.0,61,729,2,14,7,High Demand,2.033333333333333,15,29,44,1,True,1780.0,42,61,364.5,43,86,75,56,88,82,62,58,43,35,53,48
+SU-4001,Shock Absorber – Front,Suspension,Cape Town,890.0,23,273,27,22,7,Stable,0.7666666666666667,6,17,23,35,False,24030.0,0,23,10.1,27,17,28,23,33,21,24,21,17,20,21,21
+SU-4001,Shock Absorber – Front,Suspension,Durban,890.0,24,277,99,12,7,Stable,0.8,6,10,16,124,False,88110.0,0,24,2.8,22,26,19,33,28,24,18,26,18,21,15,27
+SU-4001,Shock Absorber – Front,Suspension,Pretoria,890.0,1,6,8,18,7,Slow-Moving,0.03333333333333333,1,1,2,240,False,7120.0,0,1,0.8,0,1,1,0,1,1,1,0,0,0,0,1
+SU-4001,Shock Absorber – Front,Suspension,Bloemfontein,890.0,75,932,33,20,7,High Demand,2.5,18,50,68,13,True,29370.0,35,75,28.2,93,100,103,68,72,94,53,86,57,67,76,63
+SU-4001,Shock Absorber – Front,Suspension,Port Elizabeth,890.0,16,184,5,14,7,Stable,0.5333333333333333,4,8,12,9,True,4450.0,7,16,36.8,17,18,17,20,23,17,13,13,12,9,10,15
+SU-4002,Shock Absorber – Rear,Suspension,Johannesburg,780.0,0,0,4,8,7,Slow-Moving,0.0,0,0,0,9999,False,3120.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+SU-4002,Shock Absorber – Rear,Suspension,Cape Town,780.0,116,1452,193,9,7,High Demand,3.8666666666666667,28,35,63,50,False,150540.0,0,116,7.5,126,127,104,118,119,147,142,129,123,119,121,77
+SU-4002,Shock Absorber – Rear,Suspension,Durban,780.0,28,324,37,24,7,Stable,0.9333333333333333,7,23,30,40,False,28860.0,0,28,8.8,28,23,39,35,33,24,23,20,28,23,26,22
+SU-4002,Shock Absorber – Rear,Suspension,Pretoria,780.0,17,200,6,16,7,Stable,0.5666666666666667,4,10,14,11,True,4680.0,8,17,33.3,16,21,23,16,25,14,21,11,12,16,11,14
+SU-4002,Shock Absorber – Rear,Suspension,Bloemfontein,780.0,1,6,3,12,7,Slow-Moving,0.03333333333333333,1,1,2,90,False,2340.0,0,1,2.0,1,1,1,1,1,0,0,0,1,0,0,0
+SU-4002,Shock Absorber – Rear,Suspension,Port Elizabeth,780.0,79,909,280,7,7,High Demand,2.6333333333333333,19,19,38,106,False,218400.0,0,79,3.2,80,88,89,73,71,110,78,90,52,65,53,60
+SU-4003,Control Arm – Lower,Suspension,Johannesburg,1120.0,17,202,10,24,7,Stable,0.5666666666666667,4,14,18,18,True,11200.0,8,17,20.2,21,16,21,19,18,19,13,19,16,15,13,12
+SU-4003,Control Arm – Lower,Suspension,Cape Town,1120.0,7,78,19,27,7,Slow-Moving,0.23333333333333334,2,7,9,81,False,21280.0,0,7,4.1,6,5,7,9,8,8,8,5,7,5,6,4
+SU-4003,Control Arm – Lower,Suspension,Durban,1120.0,62,713,72,8,7,High Demand,2.066666666666667,15,17,32,35,False,80640.0,0,62,9.9,45,66,56,58,78,63,77,49,58,48,56,59
+SU-4003,Control Arm – Lower,Suspension,Pretoria,1120.0,19,235,15,13,7,Stable,0.6333333333333333,5,9,14,24,False,16800.0,0,19,15.7,24,18,17,25,26,15,18,21,18,19,16,18
+SU-4003,Control Arm – Lower,Suspension,Bloemfontein,1120.0,17,204,69,12,7,Stable,0.5666666666666667,4,7,11,122,False,77280.0,0,17,3.0,15,21,18,21,22,18,21,14,15,12,13,14
+SU-4003,Control Arm – Lower,Suspension,Port Elizabeth,1120.0,1,5,8,12,7,Slow-Moving,0.03333333333333333,1,1,2,240,False,8960.0,0,1,0.6,0,1,1,1,0,0,0,1,1,0,0,0
+SU-4004,Tie Rod End,Suspension,Johannesburg,320.0,101,1271,58,17,7,High Demand,3.3666666666666667,24,58,82,17,True,18560.0,24,101,21.9,87,122,147,99,121,124,128,96,71,86,74,116
+SU-4004,Tie Rod End,Suspension,Cape Town,320.0,17,205,59,14,7,Stable,0.5666666666666667,4,8,12,104,False,18880.0,0,17,3.5,18,13,18,24,21,18,21,18,12,13,13,16
+SU-4004,Tie Rod End,Suspension,Durban,320.0,6,75,8,13,7,Slow-Moving,0.2,2,3,5,40,False,2560.0,0,6,9.4,7,8,8,9,8,7,6,5,4,4,5,4
+SU-4004,Tie Rod End,Suspension,Pretoria,320.0,60,710,148,9,7,High Demand,2.0,14,18,32,74,False,47360.0,0,60,4.8,63,62,58,85,85,52,42,48,58,57,38,62
+SU-4004,Tie Rod End,Suspension,Bloemfontein,320.0,12,142,21,11,7,Stable,0.4,3,5,8,52,False,6720.0,0,12,6.8,15,10,11,13,15,16,15,8,7,11,8,13
+SU-4004,Tie Rod End,Suspension,Port Elizabeth,320.0,23,274,66,22,7,Stable,0.7666666666666667,6,17,23,86,False,21120.0,0,23,4.2,17,30,21,26,27,25,25,22,24,23,19,15
+FI-5001,Oil Filter,Filters,Johannesburg,65.0,0,0,4,22,7,Slow-Moving,0.0,0,0,0,9999,False,260.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+FI-5001,Oil Filter,Filters,Cape Town,65.0,104,1160,43,7,7,High Demand,3.466666666666667,25,25,50,12,True,2795.0,7,104,27.0,103,141,95,153,92,90,106,69,62,58,82,109
+FI-5001,Oil Filter,Filters,Durban,65.0,16,192,45,11,7,Stable,0.5333333333333333,4,6,10,84,False,2925.0,0,16,4.3,19,14,14,23,22,18,19,10,12,14,11,16
+FI-5001,Oil Filter,Filters,Pretoria,65.0,4,38,15,27,7,Slow-Moving,0.13333333333333333,1,4,5,112,False,975.0,0,4,2.5,4,4,4,3,3,5,3,2,2,2,3,3
+FI-5001,Oil Filter,Filters,Bloemfontein,65.0,108,1357,61,22,7,High Demand,3.6,26,80,106,17,True,3965.0,45,108,22.2,117,115,118,158,162,145,88,80,97,75,101,101
+FI-5001,Oil Filter,Filters,Port Elizabeth,65.0,21,243,67,12,7,Stable,0.7,5,9,14,96,False,4355.0,0,21,3.6,25,26,17,18,26,22,17,17,20,20,18,17
+FI-5002,Air Filter,Filters,Johannesburg,110.0,12,129,28,24,7,Stable,0.4,3,10,13,70,False,3080.0,0,12,4.6,10,13,15,10,9,10,14,11,7,11,9,10
+FI-5002,Air Filter,Filters,Cape Town,110.0,7,70,7,13,7,Slow-Moving,0.23333333333333334,2,4,6,30,False,770.0,0,7,10.0,5,6,8,6,9,6,5,5,5,4,4,7
+FI-5002,Air Filter,Filters,Durban,110.0,67,739,99,11,7,High Demand,2.2333333333333334,16,25,41,44,False,10890.0,0,67,7.5,49,67,67,85,64,90,84,45,42,41,59,46
+FI-5002,Air Filter,Filters,Pretoria,110.0,27,340,38,17,7,Stable,0.9,7,16,23,42,False,4180.0,0,27,8.9,31,35,32,42,23,27,24,30,23,25,17,31
+FI-5002,Air Filter,Filters,Bloemfontein,110.0,4,42,11,16,7,Slow-Moving,0.13333333333333333,1,3,4,82,False,1210.0,0,4,3.8,5,4,4,5,3,3,3,2,4,3,3,3
+FI-5002,Air Filter,Filters,Port Elizabeth,110.0,74,913,23,14,7,High Demand,2.466666666666667,18,35,53,9,True,2530.0,30,74,39.7,79,102,109,83,77,79,77,65,67,61,54,60
+FI-5003,Fuel Filter,Filters,Johannesburg,185.0,82,979,33,20,7,High Demand,2.7333333333333334,20,55,75,12,True,6105.0,42,82,29.7,65,102,89,81,99,104,70,88,85,69,74,53
+FI-5003,Fuel Filter,Filters,Cape Town,185.0,28,325,54,7,7,Stable,0.9333333333333333,7,7,14,58,False,9990.0,0,28,6.0,26,38,34,23,23,34,29,18,26,27,23,24
+FI-5003,Fuel Filter,Filters,Durban,185.0,4,45,16,24,7,Slow-Moving,0.13333333333333333,1,4,5,120,False,2960.0,0,4,2.8,3,5,4,4,4,3,4,3,3,4,4,4
+FI-5003,Fuel Filter,Filters,Pretoria,185.0,55,674,30,9,7,High Demand,1.8333333333333333,13,17,30,16,True,5550.0,0,55,22.5,58,74,59,50,76,59,57,63,48,42,41,47
+FI-5003,Fuel Filter,Filters,Bloemfontein,185.0,27,314,90,9,7,Stable,0.9,7,9,16,100,False,16650.0,0,27,3.5,32,25,27,39,22,30,26,27,17,23,20,26
+FI-5003,Fuel Filter,Filters,Port Elizabeth,185.0,0,0,3,20,7,Slow-Moving,0.0,0,0,0,9999,False,555.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+FI-5004,Cabin Filter,Filters,Johannesburg,145.0,7,77,29,13,7,Slow-Moving,0.23333333333333334,2,4,6,124,False,4205.0,0,7,2.7,7,7,7,6,8,9,8,4,6,4,7,4
+FI-5004,Cabin Filter,Filters,Cape Town,145.0,114,1353,134,13,7,High Demand,3.8,27,50,77,35,False,19430.0,0,114,10.1,137,96,98,164,106,128,142,106,88,88,69,131
+FI-5004,Cabin Filter,Filters,Durban,145.0,25,325,21,15,7,Stable,0.8333333333333334,6,13,19,25,False,3045.0,0,25,15.5,21,35,22,36,32,32,32,27,26,15,24,23
+FI-5004,Cabin Filter,Filters,Pretoria,145.0,4,42,5,26,7,Slow-Moving,0.13333333333333333,1,4,5,38,True,725.0,0,4,8.4,4,5,5,4,4,4,3,3,2,2,3,3
+FI-5004,Cabin Filter,Filters,Bloemfontein,145.0,106,1181,263,10,7,High Demand,3.533333333333333,25,36,61,74,False,38135.0,0,106,4.5,76,92,102,163,103,117,133,122,73,61,69,70
+FI-5004,Cabin Filter,Filters,Port Elizabeth,145.0,13,155,24,16,7,Stable,0.43333333333333335,4,7,11,55,False,3480.0,0,13,6.5,13,17,15,16,12,16,13,14,13,9,8,9
+FI-5005,Transmission Filter Kit,Filters,Johannesburg,290.0,22,259,88,23,7,Stable,0.7333333333333333,6,17,23,120,False,25520.0,0,22,2.9,20,28,26,21,23,26,24,19,15,19,14,24
+FI-5005,Transmission Filter Kit,Filters,Cape Town,290.0,1,5,7,20,7,Slow-Moving,0.03333333333333333,1,1,2,210,False,2030.0,0,1,0.7,0,1,1,1,1,1,0,0,0,0,0,0
+FI-5005,Transmission Filter Kit,Filters,Durban,290.0,88,1134,20,13,7,High Demand,2.933333333333333,21,39,60,7,True,5800.0,40,88,56.7,113,94,127,104,76,115,95,92,69,76,88,85
+FI-5005,Transmission Filter Kit,Filters,Pretoria,290.0,16,193,27,11,7,Stable,0.5333333333333333,4,6,10,51,False,7830.0,0,16,7.1,17,19,23,17,17,20,16,16,12,10,15,11
+FI-5005,Transmission Filter Kit,Filters,Bloemfontein,290.0,2,17,8,24,7,Slow-Moving,0.06666666666666667,1,2,3,120,False,2320.0,0,2,2.1,2,2,2,1,2,1,1,1,1,1,1,2
+FI-5005,Transmission Filter Kit,Filters,Port Elizabeth,290.0,54,604,25,24,7,High Demand,1.8,13,44,57,14,True,7250.0,32,54,24.2,49,58,49,55,56,46,55,54,33,42,52,55
+TR-6001,Clutch Kit Complete,Transmission,Johannesburg,3200.0,14,152,28,21,7,Stable,0.4666666666666667,4,10,14,60,False,89600.0,0,14,5.4,16,13,15,13,16,14,11,14,10,9,9,12
+TR-6001,Clutch Kit Complete,Transmission,Cape Town,3200.0,16,208,26,16,7,Stable,0.5333333333333333,4,9,13,49,False,83200.0,0,16,8.0,14,14,21,24,18,19,19,18,14,15,16,16
+TR-6001,Clutch Kit Complete,Transmission,Durban,3200.0,6,68,4,21,7,Slow-Moving,0.2,2,5,7,20,True,12800.0,3,6,17.0,4,6,7,6,7,6,7,4,4,5,5,7
+TR-6001,Clutch Kit Complete,Transmission,Pretoria,3200.0,109,1251,278,26,7,High Demand,3.6333333333333333,26,95,121,77,False,889600.0,0,109,4.5,134,106,120,112,136,151,98,101,79,69,73,72
+TR-6001,Clutch Kit Complete,Transmission,Bloemfontein,3200.0,25,293,43,14,7,Stable,0.8333333333333334,6,12,18,52,False,137600.0,0,25,6.8,30,30,23,24,34,23,31,17,22,23,17,19
+TR-6001,Clutch Kit Complete,Transmission,Port Elizabeth,3200.0,7,78,29,7,7,Slow-Moving,0.23333333333333334,2,2,4,124,False,92800.0,0,7,2.7,6,7,7,7,9,8,6,7,4,3,6,8
+TR-6002,CV Joint – Outer,Transmission,Johannesburg,680.0,56,654,49,22,7,High Demand,1.8666666666666667,14,42,56,26,True,33320.0,7,56,13.3,56,73,49,62,75,56,45,41,43,44,56,54
+TR-6002,CV Joint – Outer,Transmission,Cape Town,680.0,23,270,24,13,7,Stable,0.7666666666666667,6,10,16,31,False,16320.0,0,23,11.2,29,23,25,34,22,28,26,15,18,15,15,20
+TR-6002,CV Joint – Outer,Transmission,Durban,680.0,13,147,45,8,7,Stable,0.43333333333333335,4,4,8,104,False,30600.0,0,13,3.3,16,16,13,13,13,11,16,11,8,12,10,8
+TR-6002,CV Joint – Outer,Transmission,Pretoria,680.0,1,7,6,9,7,Slow-Moving,0.03333333333333333,1,1,2,180,False,4080.0,0,1,1.2,1,1,0,1,1,1,0,0,1,0,0,1
+TR-6002,CV Joint – Outer,Transmission,Bloemfontein,680.0,49,619,157,21,7,High Demand,1.6333333333333333,12,35,47,96,False,106760.0,0,49,3.9,61,61,55,72,58,61,58,50,35,30,34,44
+TR-6002,CV Joint – Outer,Transmission,Port Elizabeth,680.0,20,252,69,26,7,Stable,0.6666666666666666,5,18,23,104,False,46920.0,0,20,3.7,20,20,27,29,19,25,22,18,13,18,21,20
+TR-6003,Flywheel – Dual Mass,Transmission,Johannesburg,4500.0,1,7,8,23,7,Slow-Moving,0.03333333333333333,1,1,2,240,False,36000.0,0,1,0.9,0,1,1,1,0,1,1,0,0,0,1,1
+TR-6003,Flywheel – Dual Mass,Transmission,Cape Town,4500.0,64,751,213,25,7,High Demand,2.1333333333333333,15,54,69,100,False,958500.0,0,64,3.5,74,63,79,84,89,50,53,64,54,51,38,52
+TR-6003,Flywheel – Dual Mass,Transmission,Durban,4500.0,25,305,5,23,7,Stable,0.8333333333333334,6,20,26,6,True,22500.0,21,25,61.0,23,34,21,34,25,33,28,27,17,20,24,19
+TR-6003,Flywheel – Dual Mass,Transmission,Pretoria,4500.0,14,172,5,14,7,Stable,0.4666666666666667,4,7,11,11,True,22500.0,6,14,34.4,10,19,18,18,18,15,13,12,12,9,14,14
+TR-6003,Flywheel – Dual Mass,Transmission,Bloemfontein,4500.0,7,75,19,7,7,Slow-Moving,0.23333333333333334,2,2,4,81,False,85500.0,0,7,3.9,5,9,10,10,7,6,5,4,4,4,7,4
+TR-6003,Flywheel – Dual Mass,Transmission,Port Elizabeth,4500.0,50,631,87,23,7,High Demand,1.6666666666666667,12,39,51,52,False,391500.0,0,50,7.3,59,57,68,64,72,59,50,50,40,36,40,36
+TR-6004,Gearbox Mount,Transmission,Johannesburg,450.0,25,297,28,9,7,Stable,0.8333333333333334,6,8,14,34,False,12600.0,0,25,10.6,19,23,35,26,32,33,18,26,18,16,23,28
+TR-6004,Gearbox Mount,Transmission,Cape Town,450.0,2,18,2,15,7,Slow-Moving,0.06666666666666667,1,1,2,30,True,900.0,0,2,9.0,2,1,2,2,2,2,1,2,1,1,1,1
+TR-6004,Gearbox Mount,Transmission,Durban,450.0,74,914,27,27,7,High Demand,2.466666666666667,18,67,85,11,True,12150.0,58,74,33.9,61,78,99,74,103,83,85,65,61,63,76,66
+TR-6004,Gearbox Mount,Transmission,Pretoria,450.0,20,236,13,8,7,Stable,0.6666666666666666,5,6,11,20,False,5850.0,0,20,18.2,21,25,17,24,23,27,19,17,21,15,13,14
+TR-6004,Gearbox Mount,Transmission,Bloemfontein,450.0,21,244,2,13,7,Stable,0.7,5,10,15,3,True,900.0,13,21,122.0,20,26,28,18,25,18,26,15,18,15,18,17
+TR-6004,Gearbox Mount,Transmission,Port Elizabeth,450.0,6,72,2,27,7,Slow-Moving,0.2,2,6,8,10,True,900.0,6,6,36.0,5,8,7,8,8,8,5,4,4,4,5,6
+EN-1003,Timing Belt Kit,Engine,Johannesburg,1250.0,48,635,104,27,7,High Demand,1.6,12,44,56,65,False,130000.0,0,48,6.1,52,64,70,47,57,63,42,41,51,49,49,50
+EN-1003,Timing Belt Kit,Engine,Cape Town,1250.0,15,174,64,16,7,Stable,0.5,4,8,12,128,False,80000.0,0,15,2.7,13,16,18,18,19,15,17,12,11,9,10,16
+EN-1003,Timing Belt Kit,Engine,Durban,1250.0,0,0,2,9,7,Slow-Moving,0.0,0,0,0,9999,False,2500.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EN-1003,Timing Belt Kit,Engine,Pretoria,1250.0,52,595,172,20,7,High Demand,1.7333333333333334,13,35,48,99,False,215000.0,0,52,3.5,55,55,58,46,72,70,36,37,53,42,33,38
+EN-1003,Timing Belt Kit,Engine,Bloemfontein,1250.0,12,132,38,18,7,Stable,0.4,3,8,11,95,False,47500.0,0,12,3.5,12,16,14,12,13,12,10,7,9,10,7,10
+EN-1003,Timing Belt Kit,Engine,Port Elizabeth,1250.0,22,253,9,10,7,Stable,0.7333333333333333,6,8,14,12,True,11250.0,5,22,28.1,23,28,30,29,19,23,23,16,13,14,17,18
+EN-1004,Water Pump,Engine,Johannesburg,680.0,1,7,7,23,7,Slow-Moving,0.03333333333333333,1,1,2,210,False,4760.0,0,1,1.0,1,0,1,0,1,1,0,1,1,0,1,0
+EN-1004,Water Pump,Engine,Cape Town,680.0,46,561,103,13,7,High Demand,1.5333333333333334,11,20,31,67,False,70040.0,0,46,5.4,55,54,57,52,56,40,52,30,43,44,37,41
+EN-1004,Water Pump,Engine,Durban,680.0,28,330,113,19,7,Stable,0.9333333333333333,7,18,25,121,False,76840.0,0,28,2.9,31,28,26,27,32,38,31,20,28,20,28,21
+EN-1004,Water Pump,Engine,Pretoria,680.0,4,43,11,14,7,Slow-Moving,0.13333333333333333,1,2,3,82,False,7480.0,0,4,3.9,5,3,5,6,3,3,4,3,2,3,3,3
+EN-1004,Water Pump,Engine,Bloemfontein,680.0,42,502,146,18,7,High Demand,1.4,10,26,36,104,False,99280.0,0,42,3.4,42,55,47,64,53,35,51,37,27,26,38,27
+EN-1004,Water Pump,Engine,Port Elizabeth,680.0,15,155,23,16,7,Stable,0.5,4,8,12,46,False,15640.0,0,15,6.7,11,15,16,18,15,11,16,12,13,9,8,11
+EN-1005,Thermostat Housing,Engine,Johannesburg,390.0,16,180,28,27,7,Stable,0.5333333333333333,4,15,19,52,False,10920.0,0,16,6.4,18,16,19,20,13,17,14,13,10,14,16,10
+EN-1005,Thermostat Housing,Engine,Cape Town,390.0,4,43,5,7,7,Slow-Moving,0.13333333333333333,1,1,2,38,False,1950.0,0,4,8.6,4,3,5,5,5,5,2,3,3,2,2,4
+EN-1005,Thermostat Housing,Engine,Durban,390.0,46,536,86,7,7,High Demand,1.5333333333333334,11,11,22,56,False,33540.0,0,46,6.2,55,45,53,71,53,39,33,52,32,36,28,39
+EN-1005,Thermostat Housing,Engine,Pretoria,390.0,28,342,83,13,7,Stable,0.9333333333333333,7,13,20,89,False,32370.0,0,28,4.1,28,39,28,33,39,29,24,30,21,22,29,20
+EN-1005,Thermostat Housing,Engine,Bloemfontein,390.0,1,3,2,8,7,Slow-Moving,0.03333333333333333,1,1,2,60,True,780.0,0,1,1.5,0,0,1,0,1,0,0,0,0,0,0,1
+EN-1005,Thermostat Housing,Engine,Port Elizabeth,390.0,85,980,53,21,7,High Demand,2.8333333333333335,20,60,80,19,True,20670.0,27,85,18.5,70,115,90,73,99,72,71,87,54,80,88,81
+EN-1006,Valve Cover Gasket,Engine,Johannesburg,220.0,73,814,212,22,7,High Demand,2.433333333333333,18,54,72,87,False,46640.0,0,73,3.8,94,72,68,88,87,64,77,46,75,50,43,50
+EN-1006,Valve Cover Gasket,Engine,Cape Town,220.0,14,141,37,27,7,Stable,0.4666666666666667,4,13,17,79,False,8140.0,0,14,3.8,12,11,14,13,15,14,12,11,8,8,9,14
+EN-1006,Valve Cover Gasket,Engine,Durban,220.0,2,20,12,17,7,Slow-Moving,0.06666666666666667,1,2,3,180,False,2640.0,0,2,1.7,2,2,2,2,2,2,2,1,1,1,1,2
+EN-1006,Valve Cover Gasket,Engine,Pretoria,220.0,47,568,164,7,7,High Demand,1.5666666666666667,11,11,22,105,False,36080.0,0,47,3.5,60,60,41,61,39,60,55,44,47,28,33,40
+EN-1006,Valve Cover Gasket,Engine,Bloemfontein,220.0,23,265,44,8,7,Stable,0.7666666666666667,6,7,13,57,False,9680.0,0,23,6.0,19,23,25,33,23,31,21,18,19,17,16,20
+EN-1006,Valve Cover Gasket,Engine,Port Elizabeth,220.0,1,7,3,24,7,Slow-Moving,0.03333333333333333,1,1,2,90,False,660.0,0,1,2.3,0,1,1,1,1,1,1,1,0,0,0,0
+EN-1007,Engine Mount,Engine,Johannesburg,560.0,2,17,8,14,7,Slow-Moving,0.06666666666666667,1,1,2,120,False,4480.0,0,2,2.1,1,2,1,2,2,1,2,2,1,1,1,1
+EN-1007,Engine Mount,Engine,Cape Town,560.0,49,599,53,17,7,High Demand,1.6333333333333333,12,28,40,32,False,29680.0,0,49,11.3,61,66,46,52,60,60,47,35,30,50,39,53
+EN-1007,Engine Mount,Engine,Durban,560.0,25,291,97,19,7,Stable,0.8333333333333334,6,16,22,116,False,54320.0,0,25,3.0,18,21,36,38,26,25,24,21,16,24,17,25
+EN-1007,Engine Mount,Engine,Pretoria,560.0,0,0,3,13,7,Slow-Moving,0.0,0,0,0,9999,False,1680.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+EN-1007,Engine Mount,Engine,Bloemfontein,560.0,106,1198,27,12,7,High Demand,3.533333333333333,25,43,68,8,True,15120.0,41,106,44.4,97,99,115,104,106,125,98,86,89,98,81,100
+EN-1007,Engine Mount,Engine,Port Elizabeth,560.0,29,352,5,17,7,Stable,0.9666666666666667,7,17,24,5,True,2800.0,19,29,70.4,29,39,40,25,32,35,37,25,18,24,18,30
+BD-7001,Side Mirror – Electric,Body,Johannesburg,890.0,11,135,36,7,7,Stable,0.36666666666666664,3,3,6,98,False,32040.0,0,11,3.8,13,13,13,15,15,14,7,10,7,10,9,9
+BD-7001,Side Mirror – Electric,Body,Cape Town,890.0,1,4,6,13,7,Slow-Moving,0.03333333333333333,1,1,2,180,False,5340.0,0,1,0.7,0,1,0,0,1,1,0,0,1,0,0,0
+BD-7001,Side Mirror – Electric,Body,Durban,890.0,95,1131,17,13,7,High Demand,3.1666666666666665,23,42,65,5,True,15130.0,48,95,66.5,108,75,78,129,141,120,93,84,75,68,79,81
+BD-7001,Side Mirror – Electric,Body,Pretoria,890.0,21,239,84,8,7,Stable,0.7,5,6,11,120,False,74760.0,0,21,2.8,26,29,18,23,19,21,18,15,20,16,21,13
+BD-7001,Side Mirror – Electric,Body,Bloemfontein,890.0,0,0,3,9,7,Slow-Moving,0.0,0,0,0,9999,False,2670.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+BD-7001,Side Mirror – Electric,Body,Port Elizabeth,890.0,95,1099,30,8,7,High Demand,3.1666666666666665,23,26,49,9,True,26700.0,19,95,36.6,115,96,115,84,89,77,107,74,89,56,95,102
+BD-7002,Headlight Assembly – LED,Body,Johannesburg,2800.0,16,184,3,13,7,Stable,0.5333333333333333,4,7,11,6,True,8400.0,8,16,61.3,11,21,15,19,17,20,15,14,17,10,15,10
+BD-7002,Headlight Assembly – LED,Body,Cape Town,2800.0,19,218,5,10,7,Stable,0.6333333333333333,5,7,12,8,True,14000.0,7,19,43.6,23,22,24,19,21,19,19,16,14,13,13,15
+BD-7002,Headlight Assembly – LED,Body,Durban,2800.0,6,63,25,9,7,Slow-Moving,0.2,2,2,4,125,False,70000.0,0,6,2.5,6,5,7,8,5,5,4,3,5,6,3,6
+BD-7002,Headlight Assembly – LED,Body,Pretoria,2800.0,45,530,128,22,7,High Demand,1.5,11,33,44,85,False,358400.0,0,45,4.1,47,57,48,38,55,64,38,32,28,37,39,47
+BD-7002,Headlight Assembly – LED,Body,Bloemfontein,2800.0,19,227,72,15,7,Stable,0.6333333333333333,5,10,15,114,False,201600.0,0,19,3.2,22,17,23,20,20,26,21,21,14,15,15,13
+BD-7002,Headlight Assembly – LED,Body,Port Elizabeth,2800.0,1,4,3,22,7,Slow-Moving,0.03333333333333333,1,1,2,90,False,8400.0,0,1,1.3,1,0,1,0,0,1,0,1,0,0,0,0
+BD-7003,Tail Light Assembly,Body,Johannesburg,1200.0,44,551,150,21,7,High Demand,1.4666666666666666,11,31,42,102,False,180000.0,0,44,3.7,49,50,46,59,65,50,48,38,41,45,28,32
+BD-7003,Tail Light Assembly,Body,Cape Town,1200.0,20,238,4,19,7,Stable,0.6666666666666666,5,13,18,6,True,4800.0,14,20,59.5,19,22,17,22,24,23,21,20,17,18,17,18
+BD-7003,Tail Light Assembly,Body,Durban,1200.0,25,298,12,22,7,Stable,0.8333333333333334,6,19,25,14,True,14400.0,13,25,24.8,21,27,35,33,22,29,20,25,24,21,21,20
+BD-7003,Tail Light Assembly,Body,Pretoria,1200.0,3,29,5,14,7,Slow-Moving,0.1,1,2,3,50,False,6000.0,0,3,5.8,3,3,3,3,2,2,2,2,3,2,2,2
+BD-7003,Tail Light Assembly,Body,Bloemfontein,1200.0,42,521,141,20,7,High Demand,1.4,10,28,38,101,False,169200.0,0,42,3.7,39,53,58,38,52,58,39,27,43,41,35,38
+BD-7003,Tail Light Assembly,Body,Port Elizabeth,1200.0,14,171,53,16,7,Stable,0.4666666666666667,4,8,12,114,False,63600.0,0,14,3.2,16,15,11,18,20,18,12,9,14,14,11,13
+BD-7004,Wiper Blade Set,Body,Johannesburg,165.0,5,48,11,13,7,Slow-Moving,0.16666666666666666,2,3,5,66,False,1815.0,0,5,4.4,3,4,4,7,4,4,5,3,3,4,3,4
+BD-7004,Wiper Blade Set,Body,Cape Town,165.0,112,1463,66,14,7,High Demand,3.7333333333333334,27,53,80,18,True,10890.0,14,112,22.2,88,153,163,160,141,132,121,112,65,114,97,117
+BD-7004,Wiper Blade Set,Body,Durban,165.0,16,178,2,12,7,Stable,0.5333333333333333,4,7,11,4,True,330.0,9,16,89.0,16,17,18,17,15,17,14,18,10,11,11,14
+BD-7004,Wiper Blade Set,Body,Pretoria,165.0,19,219,55,19,7,Stable,0.6333333333333333,5,13,18,87,False,9075.0,0,19,4.0,20,26,19,25,15,17,18,12,16,16,18,17
+BD-7004,Wiper Blade Set,Body,Bloemfontein,165.0,2,19,6,26,7,Slow-Moving,0.06666666666666667,1,2,3,90,False,990.0,0,2,3.2,1,1,2,3,1,2,2,2,1,1,1,2
+BD-7004,Wiper Blade Set,Body,Port Elizabeth,165.0,49,539,128,25,7,High Demand,1.6333333333333333,12,41,53,78,False,21120.0,0,49,4.2,61,38,69,43,46,37,47,39,32,38,38,51
+BD-7005,Door Handle – Exterior,Body,Johannesburg,340.0,25,294,69,9,7,Stable,0.8333333333333334,6,8,14,83,False,23460.0,0,25,4.3,19,24,36,22,27,34,31,21,22,19,23,16
+BD-7005,Door Handle – Exterior,Body,Cape Town,340.0,1,7,5,24,7,Slow-Moving,0.03333333333333333,1,1,2,150,False,1700.0,0,1,1.4,1,0,1,1,1,1,0,1,0,0,0,1
+BD-7005,Door Handle – Exterior,Body,Durban,340.0,113,1369,412,24,7,High Demand,3.7666666666666666,27,91,118,109,False,140080.0,0,113,3.3,138,158,110,170,138,118,117,92,81,76,70,101
+BD-7005,Door Handle – Exterior,Body,Pretoria,340.0,27,325,93,25,7,Stable,0.9,7,23,30,103,False,31620.0,0,27,3.5,29,30,30,31,26,35,22,27,25,22,27,21
+BD-7005,Door Handle – Exterior,Body,Bloemfontein,340.0,16,201,50,23,7,Stable,0.5333333333333333,4,13,17,94,False,17000.0,0,16,4.0,18,19,22,24,17,20,18,13,16,11,13,10
+BD-7005,Door Handle – Exterior,Body,Port Elizabeth,340.0,1,7,3,15,7,Slow-Moving,0.03333333333333333,1,1,2,90,False,1020.0,0,1,2.3,1,1,1,1,1,1,1,0,0,0,0,0
+CL-8001,Radiator – Aluminium,Cooling,Johannesburg,1850.0,79,988,152,14,7,High Demand,2.6333333333333333,19,37,56,58,False,281200.0,0,79,6.5,82,86,91,112,106,78,93,86,51,66,56,81
+CL-8001,Radiator – Aluminium,Cooling,Cape Town,1850.0,14,172,57,25,7,Stable,0.4666666666666667,4,12,16,122,False,105450.0,0,14,3.0,15,13,16,21,15,18,18,15,9,13,8,11
+CL-8001,Radiator – Aluminium,Cooling,Durban,1850.0,6,70,20,24,7,Slow-Moving,0.2,2,5,7,100,False,37000.0,0,6,3.5,6,6,8,8,6,8,5,4,5,6,4,4
+CL-8001,Radiator – Aluminium,Cooling,Pretoria,1850.0,51,612,176,23,7,High Demand,1.7,12,40,52,104,False,325600.0,0,51,3.5,62,46,59,79,42,58,51,54,38,38,33,52
+CL-8001,Radiator – Aluminium,Cooling,Bloemfontein,1850.0,16,177,11,27,7,Stable,0.5333333333333333,4,15,19,21,True,20350.0,8,16,16.1,14,21,13,16,19,15,13,14,10,13,14,15
+CL-8001,Radiator – Aluminium,Cooling,Port Elizabeth,1850.0,11,123,7,8,7,Stable,0.36666666666666664,3,3,6,19,False,12950.0,0,11,17.6,13,9,14,12,15,9,8,9,6,7,10,11
+CL-8002,Radiator Fan Motor,Cooling,Johannesburg,1100.0,4,45,18,8,7,Slow-Moving,0.13333333333333333,1,2,3,135,False,19800.0,0,4,2.5,4,5,5,5,4,4,5,2,2,2,4,3
+CL-8002,Radiator Fan Motor,Cooling,Cape Town,1100.0,94,1152,182,9,7,High Demand,3.1333333333333333,22,29,51,58,False,200200.0,0,94,6.3,113,133,87,133,135,75,108,77,84,75,66,66
+CL-8002,Radiator Fan Motor,Cooling,Durban,1100.0,25,310,12,23,7,Stable,0.8333333333333334,6,20,26,14,True,13200.0,14,25,25.8,27,25,24,33,32,28,31,20,24,14,23,29
+CL-8002,Radiator Fan Motor,Cooling,Pretoria,1100.0,6,66,17,22,7,Slow-Moving,0.2,2,5,7,85,False,18700.0,0,6,3.9,6,7,6,7,8,8,5,3,5,3,4,4
+CL-8002,Radiator Fan Motor,Cooling,Bloemfontein,1100.0,103,1157,78,21,7,High Demand,3.433333333333333,25,73,98,23,True,85800.0,20,103,14.8,82,82,147,137,87,81,106,80,90,79,106,80
+CL-8002,Radiator Fan Motor,Cooling,Port Elizabeth,1100.0,23,284,74,21,7,Stable,0.7666666666666667,6,17,23,97,False,81400.0,0,23,3.8,16,32,34,31,26,21,27,23,15,17,18,24
+CL-8003,Coolant Hose Kit,Cooling,Johannesburg,280.0,17,181,47,8,7,Stable,0.5666666666666667,4,5,9,83,False,13160.0,0,17,3.9,18,16,18,14,23,17,16,12,11,14,11,11
+CL-8003,Coolant Hose Kit,Cooling,Cape Town,280.0,6,68,20,18,7,Slow-Moving,0.2,2,4,6,100,False,5600.0,0,6,3.4,5,6,6,8,6,7,7,5,4,5,4,5
+CL-8003,Coolant Hose Kit,Cooling,Durban,280.0,57,616,75,25,7,High Demand,1.9,14,48,62,39,False,21000.0,0,57,8.2,43,59,51,64,69,78,41,55,45,32,40,39
+CL-8003,Coolant Hose Kit,Cooling,Pretoria,280.0,14,145,25,9,7,Stable,0.4666666666666667,4,5,9,54,False,7000.0,0,14,5.8,12,14,16,11,13,11,14,11,11,9,8,15
+CL-8003,Coolant Hose Kit,Cooling,Bloemfontein,280.0,5,57,4,13,7,Slow-Moving,0.16666666666666666,2,3,5,24,True,1120.0,1,5,14.2,3,7,6,6,7,4,6,3,4,3,3,5
+CL-8003,Coolant Hose Kit,Cooling,Port Elizabeth,280.0,51,642,70,10,7,High Demand,1.7,12,17,29,41,False,19600.0,0,51,9.2,66,52,65,78,43,70,53,51,33,41,46,44
+CL-8004,Expansion Tank,Cooling,Johannesburg,420.0,105,1234,105,14,7,High Demand,3.5,25,49,74,30,False,44100.0,0,105,11.8,127,83,138,163,86,92,115,69,91,93,91,86
+CL-8004,Expansion Tank,Cooling,Cape Town,420.0,23,263,14,24,7,Stable,0.7666666666666667,6,19,25,18,True,5880.0,11,23,18.8,24,20,28,33,29,24,20,15,16,13,24,17
+CL-8004,Expansion Tank,Cooling,Durban,420.0,7,80,7,21,7,Slow-Moving,0.23333333333333334,2,5,7,30,True,2940.0,0,7,11.4,6,7,7,9,10,9,5,7,4,6,5,5
+CL-8004,Expansion Tank,Cooling,Pretoria,420.0,52,613,211,10,7,High Demand,1.7333333333333334,13,18,31,122,False,88620.0,0,52,2.9,36,48,76,73,78,43,54,39,44,37,37,48
+CL-8004,Expansion Tank,Cooling,Bloemfontein,420.0,15,184,31,22,7,Stable,0.5,4,11,15,62,False,13020.0,0,15,5.9,16,12,22,18,20,18,16,15,15,12,10,10
+CL-8004,Expansion Tank,Cooling,Port Elizabeth,420.0,4,38,17,20,7,Slow-Moving,0.13333333333333333,1,3,4,128,False,7140.0,0,4,2.2,2,3,3,4,3,4,4,4,2,3,3,3
+CL-8005,A/C Compressor,Cooling,Johannesburg,3800.0,1,6,3,12,7,Slow-Moving,0.03333333333333333,1,1,2,90,False,11400.0,0,1,2.0,1,0,1,1,0,1,0,1,0,0,0,1
+CL-8005,A/C Compressor,Cooling,Cape Town,3800.0,63,775,30,18,7,High Demand,2.1,15,38,53,14,True,114000.0,23,63,25.8,77,80,82,65,83,87,47,50,43,47,59,55
+CL-8005,A/C Compressor,Cooling,Durban,3800.0,13,150,19,26,7,Stable,0.43333333333333335,4,12,16,44,False,72200.0,0,13,7.9,10,12,18,16,14,16,9,9,9,13,12,12
+CL-8005,A/C Compressor,Cooling,Pretoria,3800.0,0,0,2,25,7,Slow-Moving,0.0,0,0,0,9999,False,7600.0,0,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0
+CL-8005,A/C Compressor,Cooling,Bloemfontein,3800.0,79,944,33,13,7,High Demand,2.6333333333333333,19,35,54,13,True,125400.0,21,79,28.6,86,101,99,94,99,68,65,61,69,60,55,87
+CL-8005,A/C Compressor,Cooling,Port Elizabeth,3800.0,17,204,2,19,7,Stable,0.5666666666666667,4,11,15,4,True,7600.0,13,17,102.0,16,17,16,23,19,13,21,18,15,16,17,13
+EN-1008,Piston Ring Set,Engine,Johannesburg,750.0,11,127,30,10,7,Stable,0.36666666666666664,3,4,7,82,False,22500.0,0,11,4.2,9,10,9,14,15,13,9,8,8,9,11,12
+EN-1008,Piston Ring Set,Engine,Cape Town,750.0,7,79,11,20,7,Slow-Moving,0.23333333333333334,2,5,7,47,False,8250.0,0,7,7.2,8,9,8,6,6,7,5,5,7,4,7,7
+EN-1008,Piston Ring Set,Engine,Durban,750.0,44,519,123,24,7,High Demand,1.4666666666666666,11,36,47,84,False,92250.0,0,44,4.2,39,52,41,66,45,41,49,43,35,37,28,43
+EN-1008,Piston Ring Set,Engine,Pretoria,750.0,15,160,16,25,7,Stable,0.5,4,13,17,32,True,12000.0,1,15,10.0,12,13,15,16,17,13,12,13,9,13,15,12
+EN-1008,Piston Ring Set,Engine,Bloemfontein,750.0,4,42,3,15,7,Slow-Moving,0.13333333333333333,1,2,3,22,True,2250.0,0,4,14.0,2,4,5,5,3,5,3,3,2,4,2,4
+EN-1008,Piston Ring Set,Engine,Port Elizabeth,750.0,91,999,289,26,7,High Demand,3.033333333333333,22,79,101,95,False,216750.0,0,91,3.5,103,112,129,88,74,106,83,63,61,65,55,60
+SU-4005,Stabiliser Link,Suspension,Johannesburg,210.0,19,230,26,10,7,Stable,0.6333333333333333,5,7,12,41,False,5460.0,0,19,8.8,24,26,17,25,23,23,14,13,11,16,20,18
+SU-4005,Stabiliser Link,Suspension,Cape Town,210.0,24,273,100,8,7,Stable,0.8,6,7,13,125,False,21000.0,0,24,2.7,30,29,20,35,25,18,24,27,16,19,15,15
+SU-4005,Stabiliser Link,Suspension,Durban,210.0,7,70,24,18,7,Slow-Moving,0.23333333333333334,2,5,7,103,False,5040.0,0,7,2.9,8,6,7,6,5,7,7,6,5,5,4,4
+SU-4005,Stabiliser Link,Suspension,Pretoria,210.0,114,1386,447,23,7,High Demand,3.8,27,88,115,118,False,93870.0,0,114,3.1,131,157,167,149,168,119,80,75,72,69,85,114
+SU-4005,Stabiliser Link,Suspension,Bloemfontein,210.0,29,325,72,27,7,Stable,0.9666666666666667,7,27,34,74,False,15120.0,0,29,4.5,22,36,31,24,29,28,25,30,27,25,18,30
+SU-4005,Stabiliser Link,Suspension,Port Elizabeth,210.0,5,49,18,13,7,Slow-Moving,0.16666666666666666,2,3,5,108,False,3780.0,0,5,2.7,4,5,5,5,4,5,3,3,3,5,3,4
