@@ -75,6 +75,13 @@ After running, two files are generated in the project folder:
 
 ---
 
+## PDF Output
+<img width="1245" height="776" alt="Image" src="https://github.com/user-attachments/assets/54dd7976-4791-4e61-94a0-98698e2e30a4" />
+<img width="1245" height="776" alt="Image" src="https://github.com/user-attachments/assets/f45538c9-100b-4a7c-a16c-8170efd6c326" />
+<img width="1245" height="776" alt="Image" src="https://github.com/user-attachments/assets/e534ce8f-ca2b-401d-87c5-6b33cbe35ddc" />
+<img width="1245" height="776" alt="Image" src="https://github.com/user-attachments/assets/2e4146e5-4583-4d79-bedb-3b59d424dc10" />
+[inventory_report.pdf](https://github.com/user-attachments/files/25153736/inventory_report.pdf)
+
 ## Project Structure
 
 ```
