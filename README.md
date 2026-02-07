@@ -76,12 +76,10 @@ After running, two files are generated in the project folder:
 ---
 
 ## PDF Output
-<img width="1245" height="776" alt="Image" src="https://github.com/user-attachments/assets/54dd7976-4791-4e61-94a0-98698e2e30a4" />
-<img width="1245" height="776" alt="Image" src="https://github.com/user-attachments/assets/f45538c9-100b-4a7c-a16c-8170efd6c326" />
-<img width="1245" height="776" alt="Image" src="https://github.com/user-attachments/assets/e534ce8f-ca2b-401d-87c5-6b33cbe35ddc" />
-<img width="1245" height="776" alt="Image" src="https://github.com/user-attachments/assets/2e4146e5-4583-4d79-bedb-3b59d424dc10" />
-[inventory_report.pdf](https://github.com/user-attachments/files/25153736/inventory_report.pdf)
-
+<img width="1245" height="776" alt="Image" src="https://github.com/user-attachments/assets/7b364867-c08c-44f2-8db4-a6f4bd400b29" />
+<img width="1245" height="776" alt="Image" src="https://github.com/user-attachments/assets/777dfca5-4f73-4560-be32-7f764226568b" />
+<img width="1245" height="776" alt="Image" src="https://github.com/user-attachments/assets/6ad8c14f-1047-4c12-8fec-edf2805c7cc7" />
+<img width="1245" height="776" alt="Image" src="https://github.com/user-attachments/assets/d64a26ca-91de-4925-8a99-ada5906ad9b6" />
 ## Project Structure
 
 ```
